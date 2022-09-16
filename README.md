@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bahati255" alt="bahati255" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/godfrey bahati" target="blank"><img src="https://img.shields.io/twitter/follow/godfrey bahati?logo=twitter&style=for-the-badge" alt="godfrey bahati" /></a> </p>
+<p align="left"> <a href="https://twitter.com/godfrey_bahaty" target="blank"><img src="https://img.shields.io/twitter/follow/godfrey_bahaty?logo=twitter&style=for-the-badge" alt="godfrey_bahaty" /></a> </p>
 
 - 🔭 I’m currently working on **designing my latest website**
 
