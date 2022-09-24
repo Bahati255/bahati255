@@ -19,7 +19,7 @@
 
 - 💬 Ask me about **html,css,javascript,bootstrap,php,laravel,Kotlin**
 
-- 📫 How to reach me **godfreygabanell4@gmail.com**
+- 📫 How to reach me **bahatigabriel155@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
