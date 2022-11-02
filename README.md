@@ -1,6 +1,6 @@
 ![Blue Yellow Futuristic Virtual Technology Blog Banner(1)](https://user-images.githubusercontent.com/82043949/190671423-24c8b167-09f8-421c-afdd-fe8e133fc7a3.png)
 
-<h1 align="center">Hi 👋, I'm Godfrey Bahati</h1>
+<h1 align="center">Hi 👋, I'm Godfrey Bahati.</h1>
 <h3 align="center">A passionate Full stack developer from Nairobi, Kenya</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bahati255&label=Profile%20views&color=0e75b6&style=flat" alt="bahati255" /> </p>
